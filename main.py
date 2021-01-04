@@ -6,22 +6,6 @@
         Each dot has a radius of 20 units and gap between 2 consecutive dots is 50 spaces.
 """
 
-# import colorgram
-#
-# colors = colorgram.extract('damien-hirst-lactulose.jpeg', 30)
-#
-# colors_list = []
-# red = 0
-# green = 0
-# blue = 0
-# for color in colors:
-#     new_color = color.rgb
-#     red = new_color.r
-#     green = new_color.g
-#     blue = new_color.b
-#     colors_list.append((red, green, blue))
-# print(colors_list)
-
 import random
 import turtle as t
 
